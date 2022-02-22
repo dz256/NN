@@ -7,3 +7,5 @@
 *.csv
 *.weight
 *.h5
+*.svg
+*.ai
